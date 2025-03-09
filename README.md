@@ -13,10 +13,10 @@ This repository showcases the creation of interactive and visually appealing das
 ## Gráficos de Faturamento
 
 ### Mês 1
-![Gráfico Mês 1](images/grafico_mes_1.png)
+![Gráfico Mês 1](grafico_mes_1.png)
 
 ### Mês 2
-![Gráfico Mês 2](images/grafico_mes_2.png)
+![Gráfico Mês 2](grafico_mes_2.png)
 
 ### Mês 3
-![Gráfico Mês 3](images/grafico_mes_3.png)
+![Gráfico Mês 3](grafico_mes_3.png)
